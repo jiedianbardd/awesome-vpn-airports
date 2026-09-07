@@ -31,7 +31,6 @@
 | **隐形人 Cloud** | 企业级 IEPL 纯专线 | ￥24.0 / 月 | 全节点 1.0x | 👑 TOP 1 旗舰首选、全节点 1 倍率、常规套餐不限设备数 | 👉 [直达隐形人官网](https://yinxingren1.invisibleaff.com/#/register?code=Gcp1CRso) |
 | **暮光加速 Twilight** | VLESS 大机房专线 | ￥20.0 / 月 | 全节点 1.0x | 🏆 TOP 2 热门专线、香港20个节点、FullCone UDP | 👉 [直达暮光加速官网](https://asfeoasf.twilightttt.sbs/#/?code=37v8Onc7) |
 | **梯子云 LadderCloud** | IEPL 企业级专线 | ￥25.0 / 月 | 全节点 1.0x | 🚀 TOP 3 企业专线、2Gbps+ 独立带宽、自研客户端 | 👉 [直达梯子云官网](https://yinxing4.ladderaff.com/#/?code=nbmJBNjP) |
-| **全球云 Network** | 广港/沪日 IPLC 专线 | ￥26.0 / 月 | 1.0x 分级 | ⚡ 独立专线、ChatGPT / Claude 原生 100% 解封 | 👉 [直达全球云官网](https://vbfdvfj1.quanqiugttt1.club/#/?code=NKII9ZkH) |
 | **WgetCloud 全球加速** | AWS 亚马逊专线 | ￥79.0 / 月 | 全节点 1.0x | 5年老牌、10000Mbps总线、全球17+地区、85折 | 👉 [直达WgetCloud官网](https://invite.wgetcloud.ltd/auth/register?code=1i8Pgu) |
 | **SSONE 机场** | BGP 隧道中转 | ￥15.0 / 月 | 全节点 1.0x | 1天1G免费试用、月付低至15元、四档不限时包 | 👉 [直达SSONE官网](https://m.ssone.io/#/register?code=GeTpX1Qx) |
 | **赛博云 Saiboyun** | CN2 / CMIN2 / 4837 专线 | ￥3.0 / 月 | 1.0x ~ 1.5x | 支持油管 8K 秒开、南极洲等冷门节点覆盖 | 👉 [直达赛博云官网](https://saiboyun.pages.dev/) |
@@ -39,6 +38,7 @@
 | **灵动云 LingDongYun** | Trojan 协议专线 | ￥20.0 / 月 | 全节点 1.0x | 支持 150G/400G/800G 一次性买断不限时包 | 👉 [直达灵动云官网](https://yinxing4.lingdongaff.com/#/?code=mW96wgI4) |
 | **大哥云 DeGeYun** | Trojan 高速优化线路 | ￥19.0 / 月 | 全节点 1.0x | 台湾/日本节点解锁 Netflix & ChatGPT 极佳 | 👉 [直达大哥云官网](https://a03.dgy02.com/#/register?code=X8MBmftq) |
 | **Aurora 极光云** | 企业级云计算 | 咨询报价 | 1.0x 真实算力 | 2T+ DDoS 防护、BGP 万兆云机房（非代理） | 👉 [直达极光云官网](https://cloud.zcaurora.com/) |
+| **全球云 Network** | 广港/沪日 IPLC 专线 | ￥26.0 / 月 | 1.0x 分级 | ⚡ 独立专线、ChatGPT / Claude 原生 100% 解封 | 👉 [直达全球云官网](https://vbfdvfj1.quanqiugttt1.club/#/?code=NKII9ZkH) |
 
 ---
 
